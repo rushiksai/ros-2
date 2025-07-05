@@ -1,0 +1,141 @@
+[0.042s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/create3_sim/irobot_create_gz/irobot_create_gz_plugins -DCMAKE_INSTALL_PREFIX=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins
+[0.362s] -- The C compiler identification is GNU 13.3.0
+[0.558s] -- The CXX compiler identification is GNU 13.3.0
+[0.582s] -- Detecting C compiler ABI info
+[0.696s] -- Detecting C compiler ABI info - done
+[0.715s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.715s] -- Detecting C compile features
+[0.718s] -- Detecting C compile features - done
+[0.729s] -- Detecting CXX compiler ABI info
+[0.850s] -- Detecting CXX compiler ABI info - done
+[0.862s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.862s] -- Detecting CXX compile features
+[0.863s] -- Detecting CXX compile features - done
+[0.934s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.201s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.384s] -- Found gz_gui_vendor: 0.0.5 (/opt/ros/jazzy/share/gz_gui_vendor/cmake)
+[1.493s] -- Looking for gz-gui8 -- found version 8.4.0
+[1.500s] -- Searching for dependencies of gz-gui8
+[1.755s] -- Found Protobuf: /usr/lib/aarch64-linux-gnu/libprotobuf.so (found version "3.21.12") 
+[1.769s] -- Checking for module 'tinyxml2'
+[1.794s] --   Found tinyxml2, version 10.0.0
+[1.824s] -- Looking for gz-utils2 -- found version 2.2.1
+[1.824s] -- Searching for dependencies of gz-utils2
+[1.826s] -- Looking for gz-math7 -- found version 7.5.2
+[1.826s] -- Searching for dependencies of gz-math7
+[1.827s] -- Looking for gz-utils2 -- found version 2.2.1
+[1.833s] -- Looking for gz-common5 -- found version 5.7.1
+[1.833s] -- Searching for dependencies of gz-common5
+[1.833s] -- Looking for gz-utils2 -- found version 2.2.1
+[1.835s] -- Looking for dlfcn.h - found
+[1.840s] -- Looking for libdl - found
+[1.841s] -- Found DL: TRUE  
+[1.848s] -- Checking for module 'uuid'
+[1.868s] --   Found uuid, version 2.39.3
+[1.902s] -- Found UUID: TRUE  
+[1.905s] -- Searching for <gz-common5> component [profiler]
+[1.909s] -- Looking for gz-common5-profiler -- found version 5.7.1
+[1.910s] -- Searching for dependencies of gz-common5-profiler
+[1.917s] -- Looking for gz-plugin2 -- found version 2.0.4
+[1.917s] -- Searching for dependencies of gz-plugin2
+[1.918s] -- Looking for gz-utils2 -- found version 2.2.1
+[1.918s] -- Searching for dependencies of gz-utils2
+[1.918s] -- Searching for <gz-utils2> component [cli]
+[1.925s] -- Looking for gz-utils2-cli -- found version 2.2.1
+[1.925s] -- Searching for dependencies of gz-utils2-cli
+[1.931s] -- Searching for <gz-plugin2> component [loader]
+[1.933s] -- Looking for gz-plugin2-loader -- found version 2.0.4
+[1.933s] -- Searching for dependencies of gz-plugin2-loader
+[1.934s] -- Searching for <gz-plugin2> component [register]
+[1.938s] -- Looking for gz-plugin2-register -- found version 2.0.4
+[1.941s] -- Searching for dependencies of gz-plugin2-register
+[1.946s] -- Looking for gz-transport13 -- found version 13.4.1
+[1.946s] -- Searching for dependencies of gz-transport13
+[1.979s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.984s] -- Checking for module 'libzmq >= 4'
+[2.000s] --   Found libzmq, version 4.3.5
+[2.048s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[2.059s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.065s] -- Looking for gz-msgs10 -- found version 10.3.2
+[2.065s] -- Searching for dependencies of gz-msgs10
+[2.086s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.087s] -- Looking for gz-math7 -- found version 7.5.2
+[2.121s] -- Looking for gz-rendering8 -- found version 8.2.2
+[2.121s] -- Searching for dependencies of gz-rendering8
+[2.122s] -- Looking for gz-math7 -- found version 7.5.2
+[2.122s] -- Searching for dependencies of gz-math7
+[2.124s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.124s] -- Searching for <gz-math7> component [eigen3]
+[2.128s] -- Looking for gz-math7-eigen3 -- found version 7.5.2
+[2.128s] -- Searching for dependencies of gz-math7-eigen3
+[2.145s] -- Looking for gz-common5 -- found version 5.7.1
+[2.145s] -- Searching for dependencies of gz-common5
+[2.145s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.145s] -- Looking for dlfcn.h - found
+[2.145s] -- Looking for libdl - found
+[2.151s] -- Searching for <gz-common5> component [graphics]
+[2.159s] -- Looking for gz-common5-graphics -- found version 5.7.1
+[2.159s] -- Searching for dependencies of gz-common5-graphics
+[2.159s] -- Looking for gz-math7 -- found version 7.5.2
+[2.170s] -- Found GzAssimp: TRUE (found version "5.3.0") 
+[2.170s] -- Searching for <gz-common5> component [events]
+[2.174s] -- Looking for gz-common5-events -- found version 5.7.1
+[2.175s] -- Searching for dependencies of gz-common5-events
+[2.175s] -- Looking for gz-math7 -- found version 7.5.2
+[2.175s] -- Searching for <gz-common5> component [geospatial]
+[2.178s] -- Looking for gz-common5-geospatial -- found version 5.7.1
+[2.180s] -- Searching for dependencies of gz-common5-geospatial
+[2.180s] -- Looking for gz-math7 -- found version 7.5.2
+[2.182s] -- Looking for gz-common5 -- found version 5.7.1
+[2.182s] -- Looking for gz-plugin2 -- found version 2.0.4
+[2.182s] -- Searching for dependencies of gz-plugin2
+[2.185s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.185s] -- Searching for <gz-plugin2> component [all]
+[2.188s] -- Looking for all libraries of gz-plugin2 -- found version 2.0.4
+[2.188s] -- Looking for gz-plugin2 -- found version 2.0.4
+[2.190s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.221s] -- Found OpenGL: /usr/lib/aarch64-linux-gnu/libOpenGL.so  found components: OpenGL 
+[2.227s] -- Looking for gz-msgs10 -- found version 10.3.2
+[2.339s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.452s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.452s] -- Configured cppcheck include dirs: 
+[2.452s] -- Configured cppcheck exclude dirs and/or files: 
+[2.455s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.455s] -- Configured cpplint exclude dirs and/or files: 
+[2.459s] -- Added test 'lint_cmake' to check CMake code style
+[2.462s] -- Added test 'xmllint' to check XML markup files
+[2.469s] -- Configuring done (2.3s)
+[2.514s] -- Generating done (0.0s)
+[2.516s] -- Build files have been written to: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins
+[2.527s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/create3_sim/irobot_create_gz/irobot_create_gz_plugins -DCMAKE_INSTALL_PREFIX=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins
+[2.527s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins -- -j8 -l8
+[2.581s] [  0%] Built target Create3Hmi_autogen_timestamp_deps
+[2.606s] [ 14%] [34m[1mAutomatic MOC for target Create3Hmi[0m
+[3.411s] [ 14%] Built target Create3Hmi_autogen
+[3.419s] [ 28%] [34m[1mGenerating qrc_Create3Hmi.cpp[0m
+[3.465s] [ 42%] [32mBuilding CXX object Create3Hmi/CMakeFiles/Create3Hmi.dir/Create3Hmi_autogen/mocs_compilation.cpp.o[0m
+[3.465s] [ 57%] [32mBuilding CXX object Create3Hmi/CMakeFiles/Create3Hmi.dir/qrc_Create3Hmi.cpp.o[0m
+[3.465s] [ 71%] [32mBuilding CXX object Create3Hmi/CMakeFiles/Create3Hmi.dir/Create3Hmi.cc.o[0m
+[10.044s] [ 85%] [32m[1mLinking CXX shared library libCreate3Hmi.so[0m
+[11.647s] [100%] Built target Create3Hmi
+[11.686s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins -- -j8 -l8
+[11.692s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins
+[11.726s] -- Install configuration: ""
+[11.726s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/ament_index/resource_index/package_run_dependencies/irobot_create_gz_plugins
+[11.726s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/ament_index/resource_index/parent_prefix_path/irobot_create_gz_plugins
+[11.731s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/environment/ament_prefix_path.sh
+[11.731s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/environment/ament_prefix_path.dsv
+[11.739s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/environment/path.sh
+[11.739s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/environment/path.dsv
+[11.739s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/local_setup.bash
+[11.739s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/local_setup.sh
+[11.739s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/local_setup.zsh
+[11.741s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/local_setup.dsv
+[11.741s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/package.dsv
+[11.742s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/ament_index/resource_index/packages/irobot_create_gz_plugins
+[11.743s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/cmake/irobot_create_gz_pluginsConfig.cmake
+[11.762s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/cmake/irobot_create_gz_pluginsConfig-version.cmake
+[11.762s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/package.xml
+[11.768s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/lib/libCreate3Hmi.so
+[11.779s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/install/irobot_create_gz_plugins/share/irobot_create_gz_plugins/lib/libCreate3Hmi.so" to ""
+[11.783s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/build/irobot_create_gz_plugins

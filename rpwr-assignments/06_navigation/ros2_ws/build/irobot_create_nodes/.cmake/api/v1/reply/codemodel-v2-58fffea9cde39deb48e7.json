@@ -1,0 +1,214 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-930febe8301ffc6d520c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "irobot_create_nodes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hazard_publisher_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hazard_publisher_lib-a6030fbb7d148e7e81d9.json",
+					"name" : "hazard_publisher_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hazards_vector_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hazards_vector_publisher-ddc82907cc3836fa8a7a.json",
+					"name" : "hazards_vector_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ir_intensity_publisher_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ir_intensity_publisher_lib-8bfe160ba2708f97a2b3.json",
+					"name" : "ir_intensity_publisher_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ir_intensity_vector_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ir_intensity_vector_publisher-9a0d3951127d3a5aa4b6.json",
+					"name" : "ir_intensity_vector_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "irobot_create_nodes_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-irobot_create_nodes_uninstall-758b51dc28ede69bb14b.json",
+					"name" : "irobot_create_nodes_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kidnap_estimator_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kidnap_estimator_publisher-37dd3a855256434902db.json",
+					"name" : "kidnap_estimator_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kidnap_estimator_publisher_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kidnap_estimator_publisher_lib-360b78e2c4e371b95766.json",
+					"name" : "kidnap_estimator_publisher_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mock_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mock_publisher-00575e870ca9a953ffbd.json",
+					"name" : "mock_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mock_publisher_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mock_publisher_lib-48c4d1fa06396f29edf3.json",
+					"name" : "mock_publisher_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_control-fd547557fccbc3ba0ff0.json",
+					"name" : "motion_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motion_control_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motion_control_lib-82be153d3ea45cb2c449.json",
+					"name" : "motion_control_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_state::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_state-929f5242270983a5170a.json",
+					"name" : "robot_state",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_state_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_state_lib-a5a1e3400dc17f142324.json",
+					"name" : "robot_state_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ui_mgr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ui_mgr-6e48251c6b4bdb17e819.json",
+					"name" : "ui_mgr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ui_mgr_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ui_mgr_lib-c2aa3d7af7c253308898.json",
+					"name" : "ui_mgr_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-7f5c9630350aa2cdd58d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wheel_status_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wheel_status_publisher-ed3eab4971493460a0bf.json",
+					"name" : "wheel_status_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wheel_status_publisher_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wheel_status_publisher_lib-60c1398b61cc7dee157b.json",
+					"name" : "wheel_status_publisher_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes",
+		"source" : "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/create3_sim/irobot_create_common/irobot_create_nodes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

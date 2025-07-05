@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/door_control_pkg/door_control_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/door_control_pkg/door_control_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/door_control_pkg/door_control_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/door_control_pkg/door_control_pkg.egg-info/requires.txt
+writing top-level names to ../../build/door_control_pkg/door_control_pkg.egg-info/top_level.txt
+reading manifest file '../../build/door_control_pkg/door_control_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/door_control_pkg/door_control_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying door_control_pkg/doormonitornode.py -> /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/door_control_pkg/build/lib/door_control_pkg
+running install
+running install_lib
+copying /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/door_control_pkg/build/lib/door_control_pkg/doormonitornode.py -> /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg
+byte-compiling /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg/doormonitornode.py to doormonitornode.cpython-312.pyc
+running install_egg_info
+removing '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/door_control_pkg/door_control_pkg.egg-info to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/door_control_pkg/lib/python3.12/site-packages/door_control_pkg-0.0.0-py3.12.egg-info
+running install_scripts
+Installing door_lidar_node script to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/door_control_pkg/lib/door_control_pkg
+Installing door_logic_node script to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/door_control_pkg/lib/door_control_pkg
+writing list of installed files to '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/door_control_pkg/install.log'

@@ -1,0 +1,9 @@
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/uninstall.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/turtlebot4_simulator_uninstall.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/test.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/edit_cache.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/rebuild_cache.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/list_install_components.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/install.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/install/local.dir
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_simulator/CMakeFiles/install/strip.dir

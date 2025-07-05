@@ -1,0 +1,2 @@
+[console_scripts]
+main = lane_follower_knockknock.main:main

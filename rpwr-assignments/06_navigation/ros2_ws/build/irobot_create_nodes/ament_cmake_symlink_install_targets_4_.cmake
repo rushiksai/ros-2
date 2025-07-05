@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes/robot_state" "TARGETS" "robot_state" "DESTINATION" "lib/irobot_create_nodes")

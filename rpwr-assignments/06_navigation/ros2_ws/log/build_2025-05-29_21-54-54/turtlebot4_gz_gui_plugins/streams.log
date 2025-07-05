@@ -1,0 +1,4 @@
+[0.043s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_gz_gui_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_gz_gui_plugins -- -j8 -l8
+[0.415s] [  0%] Built target Turtlebot4Hmi_autogen_timestamp_deps
+[0.415s] [ 14%] Built target Turtlebot4Hmi_autogen
+[0.416s] [100%] Built target Turtlebot4Hmi

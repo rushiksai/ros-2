@@ -1,0 +1,24 @@
+[1.059s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/collision_avoid_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/collision_avoid_pkg build --build-base /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/build install --record /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/install.log --single-version-externally-managed
+[1.286s] running egg_info
+[1.297s] writing ../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/PKG-INFO
+[1.298s] writing dependency_links to ../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/dependency_links.txt
+[1.298s] writing entry points to ../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/entry_points.txt
+[1.298s] writing requirements to ../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/requires.txt
+[1.298s] writing top-level names to ../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/top_level.txt
+[1.337s] reading manifest file '../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/SOURCES.txt'
+[1.343s] writing manifest file '../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info/SOURCES.txt'
+[1.343s] running build
+[1.343s] running build_py
+[1.343s] copying collision_avoid_pkg/test_collision_avoid.py -> /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/build/lib/collision_avoid_pkg
+[1.343s] running install
+[1.344s] running install_lib
+[1.366s] copying /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/build/lib/collision_avoid_pkg/test_collision_avoid.py -> /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/python3.12/site-packages/collision_avoid_pkg
+[1.366s] byte-compiling /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/python3.12/site-packages/collision_avoid_pkg/test_collision_avoid.py to test_collision_avoid.cpython-312.pyc
+[1.367s] running install_egg_info
+[1.391s] removing '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/python3.12/site-packages/collision_avoid_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.391s] Copying ../../build/collision_avoid_pkg/collision_avoid_pkg.egg-info to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/python3.12/site-packages/collision_avoid_pkg-0.0.0-py3.12.egg-info
+[1.393s] running install_scripts
+[1.525s] Installing collision_avoid script to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/collision_avoid_pkg
+[1.527s] Installing test_collision_avoid script to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/collision_avoid_pkg
+[1.528s] writing list of installed files to '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/install.log'
+[1.588s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/collision_avoid_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/collision_avoid_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/collision_avoid_pkg build --build-base /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/build install --record /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/collision_avoid_pkg/install.log --single-version-externally-managed

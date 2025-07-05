@@ -1,0 +1,4 @@
+map_server:
+  ros__parameters:
+    yaml_filename: "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/maps/metadata.yaml"
+

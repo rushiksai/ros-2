@@ -1,0 +1,21 @@
+[1.202s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/src/lane_follower_knockknock': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/lane_follower_knockknock/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_follower_knockknock build --build-base /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/build install --record /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/install.log --single-version-externally-managed install_data
+[1.377s] running egg_info
+[1.386s] writing ../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/PKG-INFO
+[1.386s] writing dependency_links to ../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/dependency_links.txt
+[1.387s] writing entry points to ../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/entry_points.txt
+[1.387s] writing requirements to ../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/requires.txt
+[1.387s] writing top-level names to ../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/top_level.txt
+[1.407s] reading manifest file '../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/SOURCES.txt'
+[1.409s] writing manifest file '../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info/SOURCES.txt'
+[1.410s] running build
+[1.410s] running build_py
+[1.412s] running install
+[1.415s] running install_lib
+[1.430s] running install_data
+[1.434s] running install_egg_info
+[1.444s] removing '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/lane_follower_knockknock/lib/python3.12/site-packages/lane_follower_knockknock-0.0.0-py3.12.egg-info' (and everything under it)
+[1.444s] Copying ../../build/lane_follower_knockknock/lane_follower_knockknock.egg-info to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/lane_follower_knockknock/lib/python3.12/site-packages/lane_follower_knockknock-0.0.0-py3.12.egg-info
+[1.445s] running install_scripts
+[1.535s] Installing main script to /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/lane_follower_knockknock/lib/lane_follower_knockknock
+[1.535s] writing list of installed files to '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/install.log'
+[1.568s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/src/lane_follower_knockknock' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/install/lane_follower_knockknock/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_follower_knockknock build --build-base /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/build install --record /home/rushiksaiii/Desktop/ROS/rpwr-assignments/internship/group5_ws/build/lane_follower_knockknock/install.log --single-version-externally-managed install_data

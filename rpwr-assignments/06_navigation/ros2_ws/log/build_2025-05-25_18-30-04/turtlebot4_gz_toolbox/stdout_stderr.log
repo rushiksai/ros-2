@@ -1,0 +1,25 @@
+[ 20%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_toolbox_lib.dir/src/hmi_node.cpp.o[0m
+[ 40%] [32m[1mLinking CXX static library libturtlebot4_gz_toolbox_lib.a[0m
+[ 60%] Built target turtlebot4_gz_toolbox_lib
+[ 80%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_hmi_node.dir/src/hmi_main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable turtlebot4_gz_hmi_node[0m
+[100%] Built target turtlebot4_gz_hmi_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/lib/turtlebot4_gz_toolbox/turtlebot4_gz_hmi_node
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_toolbox
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_toolbox
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.sh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.sh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.bash
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.sh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.zsh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/packages/turtlebot4_gz_toolbox
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig.cmake
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig-version.cmake
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.xml

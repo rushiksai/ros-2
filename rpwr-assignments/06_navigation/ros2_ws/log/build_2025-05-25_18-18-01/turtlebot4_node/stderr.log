@@ -1,0 +1,5 @@
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/turtlebot4_node_lib.dir/build.make:90: CMakeFiles/turtlebot4_node_lib.dir/src/turtlebot4.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/turtlebot4_node_lib.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

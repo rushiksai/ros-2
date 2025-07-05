@@ -1,0 +1,110 @@
+[0.010s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes': CMAKE_PREFIX_PATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_navigation:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_description:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_description:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_control:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox/lib:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/aarch64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib /usr/bin/cmake /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/create3_sim/irobot_create_common/irobot_create_nodes -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_nodes
+[0.153s] -- The C compiler identification is GNU 13.3.0
+[0.227s] -- The CXX compiler identification is GNU 13.3.0
+[0.244s] -- Detecting C compiler ABI info
+[0.357s] -- Detecting C compiler ABI info - done
+[0.366s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.368s] -- Detecting C compile features
+[0.368s] -- Detecting C compile features - done
+[0.378s] -- Detecting CXX compiler ABI info
+[0.527s] -- Detecting CXX compiler ABI info - done
+[0.541s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.542s] -- Detecting CXX compile features
+[0.543s] -- Detecting CXX compile features - done
+[0.555s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.789s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.900s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.978s] -- Found angles: 1.16.0 (/opt/ros/jazzy/share/angles/cmake)
+[0.985s] -- Found control_msgs: 5.4.0 (/opt/ros/jazzy/share/control_msgs/cmake)
+[1.044s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.070s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.096s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.120s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.430s] -- Found nav_msgs: 5.3.6 (/opt/ros/jazzy/share/nav_msgs/cmake)
+[1.491s] -- Found irobot_create_msgs: 3.0.0 (/opt/ros/jazzy/share/irobot_create_msgs/cmake)
+[1.538s] -- Found irobot_create_toolbox: 3.0.4 (/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox/share/irobot_create_toolbox/cmake)
+[1.556s] -- Looking for gz-math7 -- found version 7.5.2
+[1.562s] -- Searching for dependencies of gz-math7
+[1.567s] -- Looking for gz-utils2 -- found version 2.2.1
+[1.567s] -- Searching for dependencies of gz-utils2
+[1.658s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.666s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.820s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.846s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.900s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.013s] -- Found rclcpp_action: 28.1.9 (/opt/ros/jazzy/share/rclcpp_action/cmake)
+[2.043s] -- Found rclcpp_components: 28.1.9 (/opt/ros/jazzy/share/rclcpp_components/cmake)
+[2.144s] -- Found tf2: 0.36.10 (/opt/ros/jazzy/share/tf2/cmake)
+[2.153s] -- Found tf2_geometry_msgs: 0.36.10 (/opt/ros/jazzy/share/tf2_geometry_msgs/cmake)
+[2.197s] -- Found eigen3_cmake_module: 0.3.0 (/opt/ros/jazzy/share/eigen3_cmake_module/cmake)
+[2.198s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.199s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.322s] -- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.83.0/BoostConfig.cmake (found version "1.83.0")  
+[2.434s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.659s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.662s] -- Configured cppcheck include dirs: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/create3_sim/irobot_create_common/irobot_create_nodes/include
+[2.662s] -- Configured cppcheck exclude dirs and/or files: 
+[2.676s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.676s] -- Configured cpplint exclude dirs and/or files: 
+[2.677s] -- Added test 'lint_cmake' to check CMake code style
+[2.682s] -- Added test 'uncrustify' to check C / C++ code style
+[2.683s] -- Configured uncrustify additional arguments: 
+[2.686s] -- Added test 'xmllint' to check XML markup files
+[2.689s] -- Configuring done (2.7s)
+[2.858s] -- Generating done (0.1s)
+[2.939s] -- Build files have been written to: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes
+[3.004s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes' returned '0': CMAKE_PREFIX_PATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_navigation:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_description:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_description:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_control:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox/lib:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/aarch64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib /usr/bin/cmake /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/create3_sim/irobot_create_common/irobot_create_nodes -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_nodes
+[3.010s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes': CMAKE_PREFIX_PATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_navigation:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_description:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_description:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_control:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/irobot_create_toolbox/lib:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/aarch64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/irobot_create_nodes -- -j8 -l8
+[3.169s] [  2%] [32mBuilding CXX object CMakeFiles/hazard_publisher_lib.dir/src/hazards_vector_publisher.cpp.o[0m
+[3.187s] [  5%] [32mBuilding CXX object CMakeFiles/hazards_vector_publisher.dir/rclcpp_components/node_main_hazards_vector_publisher.cpp.o[0m
+[3.188s] [  8%] [32mBuilding CXX object CMakeFiles/ir_intensity_publisher_lib.dir/src/ir_intensity_vector_publisher.cpp.o[0m
+[3.215s] [ 10%] [32mBuilding CXX object CMakeFiles/wheel_status_publisher.dir/rclcpp_components/node_main_wheel_status_publisher.cpp.o[0m
+[3.219s] [ 13%] [32mBuilding CXX object CMakeFiles/wheel_status_publisher_lib.dir/src/wheels_publisher.cpp.o[0m
+[3.219s] [ 16%] [32mBuilding CXX object CMakeFiles/ir_intensity_vector_publisher.dir/rclcpp_components/node_main_ir_intensity_vector_publisher.cpp.o[0m
+[3.224s] [ 18%] [32mBuilding CXX object CMakeFiles/motion_control_lib.dir/src/motion_control_node.cpp.o[0m
+[3.240s] [ 21%] [32mBuilding CXX object CMakeFiles/motion_control.dir/rclcpp_components/node_main_motion_control.cpp.o[0m
+[236.951s] [ 24%] [32m[1mLinking CXX executable motion_control[0m
+[237.723s] [ 24%] Built target motion_control
+[258.754s] [ 27%] [32m[1mLinking CXX executable ir_intensity_vector_publisher[0m
+[259.265s] [ 27%] Built target ir_intensity_vector_publisher
+[263.512s] [ 29%] [32m[1mLinking CXX executable wheel_status_publisher[0m
+[263.657s] [ 29%] Built target wheel_status_publisher
+[282.080s] [ 32%] [32m[1mLinking CXX executable hazards_vector_publisher[0m
+[282.639s] [ 32%] Built target hazards_vector_publisher
+[462.311s] [ 35%] [32m[1mLinking CXX shared library libir_intensity_publisher_lib.so[0m
+[463.306s] [ 37%] [32m[1mLinking CXX shared library libwheel_status_publisher_lib.so[0m
+[463.364s] [ 37%] Built target ir_intensity_publisher_lib
+[463.815s] [ 37%] Built target wheel_status_publisher_lib
+[465.387s] [ 40%] [32m[1mLinking CXX shared library libhazard_publisher_lib.so[0m
+[465.670s] [ 40%] Built target hazard_publisher_lib
+[480.710s] [ 43%] [32mBuilding CXX object CMakeFiles/motion_control_lib.dir/src/motion_control/reflex_behavior.cpp.o[0m
+[482.848s] [ 45%] [32mBuilding CXX object CMakeFiles/motion_control_lib.dir/src/motion_control/drive_goal_behaviors.cpp.o[0m
+[485.949s] [ 48%] [32mBuilding CXX object CMakeFiles/motion_control_lib.dir/src/motion_control/docking_behavior.cpp.o[0m
+[490.999s] [ 54%] [32mBuilding CXX object CMakeFiles/mock_publisher.dir/rclcpp_components/node_main_mock_publisher.cpp.o[0m
+[490.999s] [ 54%] [32mBuilding CXX object CMakeFiles/kidnap_estimator_publisher_lib.dir/src/kidnap_estimator_publisher.cpp.o[0m
+[491.003s] [ 56%] [32mBuilding CXX object CMakeFiles/motion_control_lib.dir/src/motion_control/wall_follow_behavior.cpp.o[0m
+[492.015s] [ 59%] [32mBuilding CXX object CMakeFiles/mock_publisher_lib.dir/src/mock_publisher.cpp.o[0m
+[492.927s] [ 62%] [32m[1mLinking CXX executable mock_publisher[0m
+[493.034s] [ 62%] Built target mock_publisher
+[493.034s] [ 64%] [32mBuilding CXX object CMakeFiles/ui_mgr.dir/rclcpp_components/node_main_ui_mgr.cpp.o[0m
+[493.043s] [ 67%] [32mBuilding CXX object CMakeFiles/motion_control_lib.dir/src/motion_control/wall_follow_states.cpp.o[0m
+[493.066s] [ 70%] [32mBuilding CXX object CMakeFiles/ui_mgr_lib.dir/src/ui_mgr.cpp.o[0m
+[494.115s] [ 72%] [32mBuilding CXX object CMakeFiles/robot_state.dir/rclcpp_components/node_main_robot_state.cpp.o[0m
+[495.175s] [ 75%] [32mBuilding CXX object CMakeFiles/robot_state_lib.dir/src/robot_state.cpp.o[0m
+[498.429s] [ 78%] [32m[1mLinking CXX executable ui_mgr[0m
+[498.957s] [ 81%] [32m[1mLinking CXX shared library libmock_publisher_lib.so[0m
+[499.037s] [ 81%] Built target ui_mgr
+[499.497s] [ 81%] Built target mock_publisher_lib
+[499.646s] [ 83%] [32m[1mLinking CXX executable robot_state[0m
+[499.774s] [ 83%] Built target robot_state
+[500.728s] [ 86%] [32m[1mLinking CXX shared library libkidnap_estimator_publisher_lib.so[0m
+[501.040s] [ 86%] Built target kidnap_estimator_publisher_lib
+[501.079s] [ 89%] [32mBuilding CXX object CMakeFiles/kidnap_estimator_publisher.dir/rclcpp_components/node_main_kidnap_estimator_publisher.cpp.o[0m
+[501.143s] [ 91%] [32m[1mLinking CXX shared library libmotion_control_lib.so[0m
+[502.924s] [ 91%] Built target motion_control_lib
+[503.636s] [ 94%] [32m[1mLinking CXX executable kidnap_estimator_publisher[0m
+[503.711s] [ 94%] Built target kidnap_estimator_publisher
+[505.500s] [ 97%] [32m[1mLinking CXX shared library libui_mgr_lib.so[0m
+[505.819s] [100%] [32m[1mLinking CXX shared library librobot_state_lib.so[0m
+[505.853s] [100%] Built target ui_mgr_lib
+[506.113s] [100%] Built target robot_state_lib

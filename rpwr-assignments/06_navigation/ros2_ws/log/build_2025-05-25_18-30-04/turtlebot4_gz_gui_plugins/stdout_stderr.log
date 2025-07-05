@@ -1,0 +1,21 @@
+[  0%] Built target Turtlebot4Hmi_autogen_timestamp_deps
+[ 14%] Built target Turtlebot4Hmi_autogen
+[100%] Built target Turtlebot4Hmi
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/lib/libTurtlebot4Hmi.so
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_gui_plugins
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_gui_plugins
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.sh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.sh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.bash
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.sh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.zsh
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.dsv
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/packages/turtlebot4_gz_gui_plugins
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig.cmake
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig-version.cmake
+-- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.xml

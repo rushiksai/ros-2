@@ -1,0 +1,7 @@
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/irobot_create_gz_sensors_lib.dir/build.make:104: CMakeFiles/irobot_create_gz_sensors_lib.dir/src/sensors/cliff.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/irobot_create_gz_sensors_lib.dir/build.make:90: CMakeFiles/irobot_create_gz_sensors_lib.dir/src/sensors/bumper.cpp.o] Error 1

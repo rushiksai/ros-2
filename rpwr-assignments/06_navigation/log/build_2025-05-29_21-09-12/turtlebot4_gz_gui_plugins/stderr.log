@@ -1,0 +1,9 @@
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/build.make:105: Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/Turtlebot4Hmi.cc.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/build.make:91: Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/Turtlebot4Hmi_autogen/mocs_compilation.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:155: Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

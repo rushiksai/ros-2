@@ -1,0 +1,261 @@
+[0.035s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/turtlebot4/turtlebot4_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs
+[0.219s] -- The C compiler identification is GNU 13.3.0
+[0.286s] -- The CXX compiler identification is GNU 13.3.0
+[0.310s] -- Detecting C compiler ABI info
+[0.403s] -- Detecting C compiler ABI info - done
+[0.408s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.410s] -- Detecting C compile features
+[0.410s] -- Detecting C compile features - done
+[0.424s] -- Detecting CXX compiler ABI info
+[0.534s] -- Detecting CXX compiler ABI info - done
+[0.542s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.542s] -- Detecting CXX compile features
+[0.542s] -- Detecting CXX compile features - done
+[0.557s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.714s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.789s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.857s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.972s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.992s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.080s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.152s] -- Found rosidl_adapter: 4.6.5 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[1.165s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.700s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[2.121s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.743s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.755s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[2.924s] -- Found PythonExtra: /usr/bin/python3  
+[3.894s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[3.964s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.966s] -- Added test 'lint_cmake' to check CMake code style
+[3.967s] -- Added test 'xmllint' to check XML markup files
+[3.982s] -- Configuring done (3.9s)
+[4.019s] -- Generating done (0.0s)
+[4.049s] -- Build files have been written to: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs
+[4.067s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/src/turtlebot4/turtlebot4_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs
+[4.068s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs -- -j8 -l8
+[4.167s] [  1%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[4.167s] [  1%] Built target ament_cmake_python_symlink_turtlebot4_msgs
+[4.486s] running egg_info
+[4.492s] creating turtlebot4_msgs.egg-info
+[4.506s] writing turtlebot4_msgs.egg-info/PKG-INFO
+[4.506s] writing dependency_links to turtlebot4_msgs.egg-info/dependency_links.txt
+[4.508s] writing top-level names to turtlebot4_msgs.egg-info/top_level.txt
+[4.509s] writing manifest file 'turtlebot4_msgs.egg-info/SOURCES.txt'
+[4.596s] reading manifest file 'turtlebot4_msgs.egg-info/SOURCES.txt'
+[4.601s] writing manifest file 'turtlebot4_msgs.egg-info/SOURCES.txt'
+[4.647s] [  1%] Built target ament_cmake_python_build_turtlebot4_msgs_egg
+[4.659s] [  1%] Built target turtlebot4_msgs__rosidl_generator_type_description
+[4.673s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[4.684s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.298s] [  5%] Built target turtlebot4_msgs__cpp
+[5.351s] [  7%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_button__description.c.o[0m
+[5.353s] [  9%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_led__description.c.o[0m
+[5.355s] [ 11%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_led__functions.c.o[0m
+[5.376s] [ 12%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_button__functions.c.o[0m
+[5.380s] [ 14%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_led__type_support.c.o[0m
+[5.392s] [ 16%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_button__type_support.c.o[0m
+[5.396s] [ 18%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_display__description.c.o[0m
+[5.422s] [ 20%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_display__functions.c.o[0m
+[5.499s] [ 22%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot4_msgs/msg/detail/user_display__type_support.c.o[0m
+[5.591s] [ 24%] [32m[1mLinking C shared library libturtlebot4_msgs__rosidl_generator_c.so[0m
+[5.753s] [ 24%] Built target turtlebot4_msgs__rosidl_generator_c
+[5.807s] [ 25%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[5.826s] [ 27%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.850s] [ 29%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.850s] [ 31%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[5.850s] [ 33%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[5.851s] [ 35%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[7.506s] [ 37%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot4_msgs/msg/detail/dds_fastrtps/user_button__type_support.cpp.o[0m
+[7.521s] [ 38%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot4_msgs/msg/detail/dds_fastrtps/user_led__type_support.cpp.o[0m
+[7.579s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot4_msgs/msg/detail/dds_fastrtps/user_display__type_support.cpp.o[0m
+[7.658s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlebot4_msgs/msg/detail/user_led__type_support.cpp.o[0m
+[7.810s] [ 44%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlebot4_msgs/msg/user_led__type_support.cpp.o[0m
+[8.048s] [ 46%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlebot4_msgs/msg/user_button__type_support.cpp.o[0m
+[8.313s] [ 48%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot4_msgs/msg/user_led__type_support.cpp.o[0m
+[8.336s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlebot4_msgs/msg/user_display__type_support.cpp.o[0m
+[8.593s] [ 51%] [32m[1mLinking CXX shared library libturtlebot4_msgs__rosidl_typesupport_c.so[0m
+[8.601s] [ 53%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot4_msgs/msg/detail/user_led__type_support_c.cpp.o[0m
+[9.057s] [ 53%] Built target turtlebot4_msgs__rosidl_typesupport_c
+[9.225s] [ 55%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot4_msgs/msg/user_button__type_support.cpp.o[0m
+[9.244s] [ 57%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlebot4_msgs/msg/detail/user_led__type_support.c.o[0m
+[11.571s] [ 59%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlebot4_msgs/msg/detail/user_button__type_support.c.o[0m
+[11.715s] [ 61%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot4_msgs/msg/user_display__type_support.cpp.o[0m
+[11.722s] [ 62%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlebot4_msgs/msg/detail/user_button__type_support.cpp.o[0m
+[11.734s] [ 64%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot4_msgs/msg/detail/user_button__type_support_c.cpp.o[0m
+[11.776s] [ 66%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlebot4_msgs/msg/detail/user_display__type_support.c.o[0m
+[12.148s] [ 68%] [32m[1mLinking C shared library libturtlebot4_msgs__rosidl_typesupport_introspection_c.so[0m
+[12.155s] [ 70%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlebot4_msgs/msg/detail/user_display__type_support.cpp.o[0m
+[13.348s] [ 70%] Built target turtlebot4_msgs__rosidl_typesupport_introspection_c
+[14.832s] [ 72%] [32m[1mLinking CXX shared library libturtlebot4_msgs__rosidl_typesupport_cpp.so[0m
+[14.838s] [ 74%] [32m[1mLinking CXX shared library libturtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[15.120s] [ 74%] Built target turtlebot4_msgs__rosidl_typesupport_cpp
+[15.250s] [ 74%] Built target turtlebot4_msgs__rosidl_typesupport_fastrtps_cpp
+[15.425s] [ 75%] [32m[1mLinking CXX shared library libturtlebot4_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[15.919s] [ 75%] Built target turtlebot4_msgs__rosidl_typesupport_introspection_cpp
+[16.760s] [ 77%] [32mBuilding CXX object CMakeFiles/turtlebot4_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot4_msgs/msg/detail/user_display__type_support_c.cpp.o[0m
+[19.959s] [ 79%] [32m[1mLinking CXX shared library libturtlebot4_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[20.992s] [ 79%] Built target turtlebot4_msgs__rosidl_typesupport_fastrtps_c
+[21.690s] [ 79%] Built target turtlebot4_msgs
+[21.990s] [ 81%] [34m[1mGenerating Python code for ROS interfaces[0m
+[25.231s] [ 81%] Built target turtlebot4_msgs__py
+[25.318s] [ 83%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlebot4_msgs/msg/_user_led_s.c.o[0m
+[26.853s] [ 85%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlebot4_msgs/msg/_user_display_s.c.o[0m
+[27.494s] [ 87%] [32mBuilding C object CMakeFiles/turtlebot4_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlebot4_msgs/msg/_user_button_s.c.o[0m
+[28.302s] [ 88%] [32m[1mLinking C shared library libturtlebot4_msgs__rosidl_generator_py.so[0m
+[28.502s] [ 88%] Built target turtlebot4_msgs__rosidl_generator_py
+[28.567s] [ 90%] [32mBuilding C object CMakeFiles/turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[28.732s] [ 92%] [32m[1mLinking C shared module rosidl_generator_py/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c.so[0m
+[28.820s] [ 92%] Built target turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c
+[28.867s] [ 94%] [32mBuilding C object CMakeFiles/turtlebot4_msgs_s__rosidl_typesupport_c.dir/rosidl_generator_py/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[28.992s] [ 96%] [32m[1mLinking C shared module rosidl_generator_py/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_c.so[0m
+[29.053s] [ 96%] Built target turtlebot4_msgs_s__rosidl_typesupport_c
+[29.094s] [ 98%] [32mBuilding C object CMakeFiles/turtlebot4_msgs_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[29.256s] [100%] [32m[1mLinking C shared module rosidl_generator_py/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_introspection_c.so[0m
+[29.339s] [100%] Built target turtlebot4_msgs_s__rosidl_typesupport_introspection_c
+[30.664s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs -- -j8 -l8
+[31.047s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs
+[31.285s] -- Install configuration: ""
+[31.285s] -- Execute custom install script
+[31.286s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/ament_index/resource_index/rosidl_interfaces/turtlebot4_msgs
+[31.286s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserLed.json
+[31.286s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserButton.json
+[31.286s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserDisplay.json
+[31.294s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__functions.h
+[31.302s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__struct.h
+[31.320s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__type_support.h
+[31.333s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__functions.h
+[31.345s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__struct.h
+[31.356s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__type_support.h
+[31.370s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__functions.h
+[31.385s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__struct.h
+[31.393s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__type_support.h
+[31.405s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_generator_c__visibility_control.h
+[31.416s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_button.h
+[31.436s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_display.h
+[31.446s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_led.h
+[31.467s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/library_path.sh
+[31.473s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/library_path.dsv
+[31.483s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_fastrtps_c.h
+[31.493s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_fastrtps_c.h
+[31.501s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_fastrtps_c.h
+[31.511s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[31.524s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_introspection_c.h
+[31.533s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_introspection_c.h
+[31.543s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_introspection_c.h
+[31.551s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[31.564s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__builder.hpp
+[31.576s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__struct.hpp
+[31.587s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__traits.hpp
+[31.598s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__type_support.hpp
+[31.610s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__builder.hpp
+[31.626s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__struct.hpp
+[31.643s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__traits.hpp
+[31.651s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__type_support.hpp
+[31.660s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__builder.hpp
+[31.669s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__struct.hpp
+[31.677s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__traits.hpp
+[31.689s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__type_support.hpp
+[31.699s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[31.706s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_button.hpp
+[31.715s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_display.hpp
+[31.731s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_led.hpp
+[31.747s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_fastrtps_cpp.hpp
+[31.763s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_fastrtps_cpp.hpp
+[31.772s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_fastrtps_cpp.hpp
+[31.783s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[31.792s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_introspection_cpp.hpp
+[31.805s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_introspection_cpp.hpp
+[31.820s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_introspection_cpp.hpp
+[31.835s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/pythonpath.sh
+[31.854s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/pythonpath.dsv
+[31.870s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs-2.0.1-py3.12.egg-info/PKG-INFO
+[31.888s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs-2.0.1-py3.12.egg-info/SOURCES.txt
+[31.907s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs-2.0.1-py3.12.egg-info/dependency_links.txt
+[31.915s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs-2.0.1-py3.12.egg-info/top_level.txt
+[31.928s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/__init__.py
+[31.943s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_c.c
+[31.954s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[31.967s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[31.980s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/__init__.py
+[31.990s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_button.py
+[32.004s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_button_s.c
+[32.028s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_display.py
+[32.045s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_display_s.c
+[32.062s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_led.py
+[32.081s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_led_s.c
+[32.098s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_c.so
+[32.119s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c.so
+[32.139s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_introspection_c.so
+[32.169s] -- Up-to-date symlink: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c.so
+[32.172s] -- Up-to-date symlink: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_introspection_c.so
+[32.174s] -- Up-to-date symlink: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_c.so
+[32.174s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserLed.idl
+[32.195s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserButton.idl
+[32.215s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserDisplay.idl
+[32.231s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserLed.msg
+[32.240s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserButton.msg
+[32.250s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserDisplay.msg
+[32.261s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/ament_index/resource_index/package_run_dependencies/turtlebot4_msgs
+[32.276s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/ament_index/resource_index/parent_prefix_path/turtlebot4_msgs
+[32.300s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/ament_prefix_path.sh
+[32.328s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/ament_prefix_path.dsv
+[32.343s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/path.sh
+[32.359s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/path.dsv
+[32.373s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.bash
+[32.386s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.sh
+[32.396s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.zsh
+[32.407s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.dsv
+[32.423s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/package.dsv
+[32.437s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/ament_index/resource_index/packages/turtlebot4_msgs
+[32.446s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/rosidl_cmake-extras.cmake
+[32.458s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[32.474s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[32.483s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[32.498s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[32.515s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[32.527s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[32.541s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgsConfig.cmake
+[32.560s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgsConfig-version.cmake
+[32.575s] -- Symlinking: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/package.xml
+[32.595s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_generator_c.so
+[32.597s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_generator_c.so" to ""
+[32.597s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_fastrtps_c.so
+[32.600s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[32.600s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_introspection_c.so
+[32.605s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_introspection_c.so" to ""
+[32.605s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_c.so
+[32.613s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_c.so" to ""
+[32.613s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.so
+[32.615s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[32.615s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_introspection_cpp.so
+[32.617s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[32.617s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_cpp.so
+[32.620s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_cpp.so" to ""
+[32.954s] Listing '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs'...
+[32.954s] Compiling '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/__init__.py'...
+[32.954s] Listing '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg'...
+[32.955s] Compiling '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/__init__.py'...
+[32.956s] Compiling '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_button.py'...
+[32.956s] Compiling '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_display.py'...
+[32.956s] Compiling '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/python3.12/site-packages/turtlebot4_msgs/msg/_user_led.py'...
+[32.960s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_generator_py.so
+[32.961s] -- Set non-toolchain portion of runtime path of "/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_generator_py.so" to ""
+[32.961s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_cExport.cmake
+[32.964s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_cExport-noconfig.cmake
+[32.966s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[32.970s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[32.972s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cExport.cmake
+[32.978s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[32.978s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cExport.cmake
+[32.979s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[32.982s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_cppExport.cmake
+[32.982s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[32.985s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[32.987s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[32.987s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[32.991s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cppExport.cmake
+[32.991s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[32.993s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_pyExport.cmake
+[32.996s] -- Installing: /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_pyExport-noconfig.cmake
+[33.028s] Invoked command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_party:/home/rushiksaiii/Desktop/ROS/rpwr-assignments/03_ros/install/turtle_new:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_msgs

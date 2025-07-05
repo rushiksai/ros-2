@@ -1,0 +1,9 @@
+[0.050s] Invoking command in '/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rushiksaiii/ros2_ws/install/turtle_party:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_navigation -- -j8 -l8
+[0.413s] Built target ament_cmake_python_symlink_turtlebot4_navigation
+[0.413s] running egg_info
+[0.418s] writing turtlebot4_navigation.egg-info/PKG-INFO
+[0.419s] writing dependency_links to turtlebot4_navigation.egg-info/dependency_links.txt
+[0.419s] writing top-level names to turtlebot4_navigation.egg-info/top_level.txt
+[0.461s] reading manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[0.462s] writing manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[0.495s] Built target ament_cmake_python_build_turtlebot4_navigation_egg

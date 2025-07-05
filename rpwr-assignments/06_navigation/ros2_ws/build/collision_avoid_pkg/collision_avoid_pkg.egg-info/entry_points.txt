@@ -1,0 +1,3 @@
+[console_scripts]
+collision_avoid = collision_avoid_pkg.collision_avoid_node:main
+test_collision_avoid = collision_avoid_pkg.test_collision_avoid:main

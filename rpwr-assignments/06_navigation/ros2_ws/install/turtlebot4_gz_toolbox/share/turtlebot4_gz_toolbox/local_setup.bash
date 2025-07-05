@@ -1,0 +1,1 @@
+/home/rushiksaiii/Desktop/ROS/rpwr-assignments/06_navigation/ros2_ws/build/turtlebot4_gz_toolbox/ament_cmake_environment_hooks/local_setup.bash
