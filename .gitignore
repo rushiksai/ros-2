@@ -1,0 +1,10 @@
+*.mcap
+*.bag
+*.log
+*.pyc
+__pycache__/
+build/
+install/
+log/
+venv/
+*.a
